@@ -86,7 +86,7 @@
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ENy-Zk-ufW">
                                         <rect key="frame" x="0.0" y="120" width="234" height="50"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
-                                        <color key="textColor" systemColor="systemRedColor"/>
+                                        <color key="textColor" systemColor="systemPinkColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="86H-1u-dFy">
@@ -110,7 +110,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="1">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="hUC-f8-aux"/>
@@ -121,7 +121,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="2">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="Agb-0a-pOa"/>
@@ -132,7 +132,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="3">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="PZ9-lC-r4B"/>
@@ -143,7 +143,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="4">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="AhJ-Xt-EKZ"/>
@@ -159,7 +159,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="5">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="Yms-5v-zz5"/>
@@ -170,7 +170,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="6">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="bbi-e9-aru"/>
@@ -181,7 +181,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="7">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="yEg-jF-mIC"/>
@@ -192,7 +192,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="8">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="kLS-2q-Nqg"/>
@@ -208,7 +208,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="9">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="0Mj-3M-Txh"/>
@@ -219,7 +219,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="10">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="Oxx-bd-GEi"/>
@@ -230,7 +230,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="11">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="afw-gA-upy"/>
@@ -241,7 +241,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="12">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="yNN-rG-kyQ"/>
@@ -257,7 +257,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="13">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="Mr0-dB-00a"/>
@@ -268,7 +268,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="14">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="asc-qU-Qkn"/>
@@ -279,7 +279,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="15">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="hvL-5G-sgo"/>
@@ -290,7 +290,7 @@
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                 <state key="normal" title="16">
-                                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                                    <color key="titleColor" systemColor="systemPinkColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="pressButton:" destination="yDw-gk-lQV" eventType="touchUpInside" id="Gs8-5J-5UN"/>
@@ -583,8 +583,8 @@
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
-        <systemColor name="systemRedColor">
-            <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        <systemColor name="systemPinkColor">
+            <color red="1" green="0.17647058823529413" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
